@@ -1,0 +1,33 @@
+#title {
+  font-size: 64px;
+  text-align: center;
+}
+p {
+  font-size: 24px;
+  text-align: center;
+  font-style: italic;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+#img-caption {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}

@@ -1,0 +1,28 @@
+<style>
+  body {
+      background-color: black;
+      color: white;
+      font-family: calibri;
+    }
+</style>
+<div id="main">
+  <h1 id="title">Dennis Rodman</h1>
+  <div id="img-div">
+    <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Dennis_Rodman">
+    <img id="image" src="https://wallpaperaccess.com/full/2316458.jpg" alt="Picture of Dennis Rodman" width="20%" height="20%">
+    </a>
+    <figcaption id="img-caption">
+      Dennis Keith Rodman (born May 13, 1961) is an American former professional basketball player.
+    </figcaption>
+  </div>
+  <p id="tribute-info">
+    <b>NBA Career history</b>
+    <ul>
+      <li>1986–1993	Detroit Pistons</li>
+      <li>1993–1995	San Antonio Spurs</li>
+      <li>1995–1998	Chicago Bulls</li>
+      <li>1999–1999	Los Angeles Lakers</li>
+      <li>2000–2000	Dallas Mavericks</li>
+    </ul>
+  </p>
+</div>
